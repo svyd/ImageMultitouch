@@ -1,0 +1,13 @@
+.metadata
+tmp/**
+bin/
+gen/
+*.tmp
+*.bak
+tmp/**/*
+*.swp
+*~.nib
+*~
+*.apk
+local.properties
+*.jar
